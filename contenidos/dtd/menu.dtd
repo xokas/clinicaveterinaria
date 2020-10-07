@@ -1,0 +1,8 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT menu (enlace+)>
+<!ELEMENT enlace (id, texto, href, submenu*, click*)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT texto (#PCDATA)>
+<!ELEMENT href (#PCDATA)>
+<!ELEMENT click (#PCDATA)>
+<!ELEMENT submenu (enlace+)>

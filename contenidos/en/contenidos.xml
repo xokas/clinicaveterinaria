@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE contenidos SYSTEM "../dtd/contenidos.dtd">
+<contenidos>
+	<apartado id="quienes_somos">
+		<titulo>About us</titulo>
+		<texto>
+			<![CDATA[Consulta Veterinaria Gala was founded in 2012 in Betanzos (A Coruña), run by Dr Patricia Ferreira, graduate in Veterinary Medicine of Universidad de Santiago. The clinic comes as a result of Dr Ferreira’s passion, ilussion and vocation for animal care and wellness.]]>
+		</texto>
+		<texto>
+			<![CDATA[We provide an unique and personalised approach to our clients and their pet’s health and well-being. We offer a veterinary service at the clinic, home appointments, emergency service, grooming service and exotic animal attention, as well as tips about how to take care of your pets at home.]]>
+		</texto>
+		<texto>
+			<![CDATA[Please, welcome to our clinic. We are here to help you.]]>
+		</texto>
+	</apartado>
+	<apartado id="donde_estamos">
+		<titulo>Where we are</titulo>
+		<texto>
+			<![CDATA[Established in Betanzos, we are on 52, Saavedra Meneses St, exit towards Ferrol, next to the street lights. Phone Number: 981 775 203 and emergency: 696 949 087]]>
+		</texto>
+		<texto>
+			<![CDATA[E-mail: contacto@cveterinariagala.com]]>
+		</texto>
+		<texto>
+			<![CDATA[<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;q=Calle+Saavedra+Meneses,+52&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+de+Saavedra+Meneses,+52,+15319+Betanzos,+A+Coru%C3%B1a,+Galicia&amp;gl=es&amp;ll=43.289000,-8.208014&amp;spn=0.012512,0.01929&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><a href="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;q=Calle+Saavedra+Meneses,+52&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+de+Saavedra+Meneses,+52,+15319+Betanzos,+A+Coru%C3%B1a,+Galicia&amp;gl=es&amp;ll=43.283745,-8.208014&amp;spn=0.012512,0.01929&amp;t=m&amp;z=14&amp;source=embed" target="_blank">Watch bigger map</a>]]>
+		</texto>
+	</apartado>
+	<apartado id="contacto">
+		<titulo>Contact us</titulo>
+		<texto>
+			<![CDATA[You can contact us to make an appointment or solve your doubts on:]]>
+		</texto>
+		<texto>
+			<![CDATA[Phone number: 981 775 203]]>
+		</texto>
+		<texto>
+			<![CDATA[Emergency, after hours: 696 949 087]]>
+		</texto>
+		<texto>
+			<![CDATA[E-mail: contacto@cveterinariagala.com]]>
+		</texto>
+	</apartado>
+	<apartado id="atencion_a_domicilio">
+		<titulo>Home visit</titulo>
+		<texto>
+			<![CDATA[We make home visits, both routine and emergency consultations, allowing clients with restricted mobility or big animals, to have a personal approach to their pet’s problem.]]>
+		</texto>
+	</apartado>
+	<apartado id="urgencias">
+		<titulo>Emergency</titulo>
+		<texto>
+			<![CDATA[We have an emergency service outside our business hours, clients can contact us by calling the following number and they will be always attended by a veterinarian.]]>
+		</texto>
+		<texto>
+			<![CDATA[Emergency: 696 949 087]]>
+		</texto>
+	</apartado>
+	<apartado id="peluqueria_canina">
+		<titulo>Grooming Service</titulo>
+		<texto>
+			<![CDATA[Grooming Service: we have a grooming service for both dogs and cats with bath, haircut and hairstyle, as well as parasite prevention and control baths.]]>
+		</texto>
+		<leyenda>
+			<![CDATA[Request an appointment.]]>
+		</leyenda>
+	</apartado>
+	<apartado id="atencion_de_animales_exoticos">
+		<titulo>Exotic animals care</titulo>
+		<texto>
+			<![CDATA[We provide routine and emergency care to reptiles, birds and rodents, at the clinic or at home. We can also offer you tips for you to look after your pet at home.]]>
+		</texto>
+	</apartado>
+	<apartado id="sexaje_de_aves">
+		<titulo>Bird Sexing</titulo>
+		<texto>
+			<![CDATA[Many owners of birds, find very difficult to determine the sex of their avian pet. We can offer you a bird sexing through feathers or even a small drop of blood, without anesthesia neither surgery.]]>
+		</texto>
+	</apartado>
+	<apartado id="tienda_especializada">
+		<titulo>Vet Shop</titulo>
+		<texto>
+			<![CDATA[Visit our shop to buy nourishing foods, medicines, practical toys, comfy bedding... everything your pet ( dogs, cats, birds..) need to stay healthy and happy.]]>
+		</texto>
+	</apartado>
+	<apartado id="perros_y_gatos">
+		<titulo>Dogs and cats</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[During the first seven weeks of their life, both puppy and kitten, should be only breast fed. After that age, they are fully developed and they can be fed with a suitable feed that gives them the appropriate nutrients.]]>
+		</texto>
+		<texto>
+			<![CDATA[Parasite control is very important in puppies before their first vaccine and, thereafter, every time we vaccinate them. So we will get rid off parasites, stimulate their defenses and make the vaccines more effective.]]>
+		</texto>
+		<texto>
+			<![CDATA[The following breed puppies, Rottweiler, Husky, Doberman and Golden Retriever, should be vaccinated against "Parvovirosis" before their 45 days of life, as they are very sensitive to this disease.]]>
+		</texto>
+		<texto>
+			<![CDATA[Puppies and kitten deworm should be performed at their 30 days of life, even if they are very infested, it can be done before. After that, it should be done every 15 days to complete the vaccination schedule. After that period, they will be dewormed every 3 or 6 months.]]>
+		</texto>
+		<texto>
+			<![CDATA[Rodenticides contain poison that reduce blood clotting. Some of them act very quickly, however some act days after they have been ingested. On a poisoned dog, symptoms are non specific: tiredness, pale mucous, afebrile, anorexia... Poisoning has a simple treatment if the diagnosis is quick as the animal can die soon, due to internal hemorrhage.]]>
+		</texto>
+		<texto>
+			<![CDATA[80% of breast tumours in cats are malignant. Their growth is associated to estrogen secretion. Studies conclude that castration before the first heat reduces the appearance of malignant tumours by the 86%. If you are not going to breed, is advisable to perform a castration before the first heat o during the first year of life.]]>
+		</texto>
+		<texto>
+			<![CDATA[Squamous Cell Carcinomas is one of the most common cancer found in dogs. Common sites are head and ear in white-skinned shorthaired breeds such as Dalmatians, Bull terrier …; and limbs and toes (nailbeds) in dark-skinned breeds such as Giant Schnauzer, Rottweiler, Doberman,...</p> 
+			<p>This kind of tumors usually appear as kind, raised, frecuently ulcerated plaquets and nodules. It doesn´t get cure after treatment and grow.</p>
+			<p>The clinica sign usually depend upon the location of the tumor. For instance dogs with tumor on their feet may limp.</p>
+			<p>For accurate diagnosis vets depend on microscopic examination of tissue, after a biopsia or the complet surgical removal.</p>
+			<p>Early detection and surgical removal is treatment of choice and fewer than 20% develop metastatic desease. However, we can suplement with chemotherapy or radiation. Thoratic and abdominal radiographs should be taken to detec the presence of metastatic desease.</p>
+			<p>50% of the surgery patients present recurrence after 2-4 years , cause this is very important to control closely these patients.]]>
+		</texto>
+		<texto>
+			<![CDATA[Castration or neuter is the procedure performed on male dogs and cats, and entiles the removal of the testicles.</p>
+				<p>Intact male pets have a higher risk of health problems as they get older, including prostata enlargement, prostata infeccion and testicular cancer.</p>
+				<p>Neuter also helps to prevent unwanted behaviors such as agression, urine marking, wandering,... But our pet is going to play, to obbey; it isn´t change its normal behavior.</p>
+				<p>Dogs should be castrate with 6-10 months of age and cats with 4-6 months of age.</p>
+				<p>Castration affects the ability to regulate food intake and thus predisposes these animals to obesity. If pets are exercised regularly and their food intake is controlled, there are no significant increase in weight in neuter males.]]>
+		</texto>
+		<texto>
+			<![CDATA[Ovariohysterectomy (OVH) surgery in the female pets involves removal of the uterus and both ovaries. It is an effective technique spaying female dogs and cats.</p>
+			<p>The advantage of OVH before the first estrus, 6-10 months, is a significant reduction of incidence of mamary neoplasia.</p>
+			<p>If the owner really knows he doesn´t want to rais with his pet then our advice is to operate with 6 months old. Spay will eliminate the sometimes messy heat cycles that atract male dogs to your  house.</p>
+			<p>OVH affects the ability to regulate food intake and thus predisposes these animals to obesity. Inactivity and increased food intake contributes to weight gains up to 38%. If dogs are exercised regularly and their food intake is control, there are no significant increase weight in spayed females.</p>
+			<p>We can´t forget they are still puppys. Adult ones can have a light dry food.]]>
+		</texto>
+	</apartado>
+	<apartado id="roedores">
+		<titulo>Rodents</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[When buying a small rabbit is advisable they have more than 8 weeks. What you should have in mind : their coat is smooth, an attentive and cheerful character, they move back and forth their ears and participate in what happens around them.]]>
+		</texto>
+		<texto>
+			<![CDATA[The size of the cage should be large enough to develop a proper physical activity, it is estimated that a good size is 6 times the size of the adult rabbit. Soil is advisable to be smooth, without bars. We must provide a fountain, a feeder and a basket for hay. If you have space, you can place a cave or house that allows refuge.]]>
+		</texto>
+		<texto>
+			<![CDATA[The cage should be positioned in a quiet place, free from drafts, with a constant temperature. It is preferable a place with day light, not only artificial, but try to avoid direct exposure to sunlight.]]>
+		</texto>
+	</apartado>
+	<apartado id="aves">
+		<titulo>Birds</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[When buying a bird you should look at a number of parameters: the position of the bird in the innkeeper, alertness, the head always moving quickly, the bird remains in the same position for a short period of time, gracious and bright eyes, normal breathing and mouth shut and quiet. As for the feathers must be clean, attached to the body and bright.]]>
+		</texto>
+		<texto>
+			<![CDATA[When choosing our bird cage, keep in mind the size of it. It should be big enough so they can jump and spread their wings among innkeepers without feathers hit the bars. We recommend square or rectangular cages where the bird will find a security zone, typically closest to the wall. ]]>
+		</texto>
+	</apartado>
+	<apartado id="reptiles">
+		<titulo>Reptiles</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[For our terrapin, turtle also known as Florida, be healthy we must follow three basic principles: keep the water at a suitable temperature (between 24 and 30 ° C), keep a very clean water (you can use a filter) and feed her with cats dry food while it is in the water.]]>
+		</texto>
+		<texto>
+			<![CDATA[We must provide our terrapin with sunlight or ultraviolet A or B. Sunlight is essential for them to fix calcium properly, assimilate food and heal small scratches and skin diseases. At the same time, make sure that there is some shade available to escape the heat, because they could die quickly.]]>
+		</texto>
+		<texto>
+			<![CDATA[You have to feed the turtles when they are in the water. A small turtle once daily and three times a week big ones. The feed will provide protein, vitamins and minerals they need. Always remove leftover food when the turtle stops eating.]]>
+		</texto>
+		<texto>
+			<![CDATA[Most reptiles diseases are due to improper diet, lack of sunlight or ultraviolet light, to unsuitable habitat or poor hygiene.]]>
+		</texto>
+	</apartado>
+</contenidos>

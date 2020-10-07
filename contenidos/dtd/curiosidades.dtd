@@ -1,0 +1,7 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT textos (texto+)>
+<!ELEMENT texto (parrafo+)>
+<!ATTLIST texto id ID #REQUIRED >
+<!ELEMENT parrafo (#PCDATA)>
+
+

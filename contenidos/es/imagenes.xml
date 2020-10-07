@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE imagenes SYSTEM "../dtd/imagenes.dtd">
+<imagenes>
+	<imagen>
+		<enlace>
+			<idPadre>gala</idPadre>
+			<id>quienes_somos</id>
+			<texto>Quiénes somos</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/selva.png</img>
+		<title>Quiénes somos</title>
+		<alt>Quiénes somos</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>gala</idPadre>
+			<id>donde_estamos</id>
+			<texto>Dónde estamos</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/leo_peque.png</img>
+		<title>Dónde estamos</title>
+		<alt>Dónde estamos</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>gala</idPadre>
+			<id>contacto</id>
+			<texto>Contacto</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/pico.png</img>
+		<title>Contacto</title>
+		<alt>Contacto</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>servicios</idPadre>
+			<id>atencion_a_domicilio</id>
+			<texto>Atención a domicilio</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/conejo.png</img>
+		<title>Atención a domicilio</title>
+		<alt>Atención a domicilio</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>servicios</idPadre>
+			<id>urgencias</id>
+			<texto>Urgencias</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/waldo.png</img>
+		<title>Urgencias</title>
+		<alt>Urgencias</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>servicios</idPadre>
+			<id>peluqueria_canina</id>
+			<texto>Peluquería canina</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/toy.png</img>
+		<title>Peluquería canina</title>
+		<alt>Peluquería canina</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>servicios</idPadre>
+			<id>atencion_de_animales_exoticos</id>
+			<texto>Atención de animales exóticos</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/iguana.png</img>
+		<title>Atención de animales exóticos</title>
+		<alt>Atención de animales exóticos</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>servicios</idPadre>
+			<id>sexaje_de_aves</id>
+			<texto>Sexaje de aves</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/periquitos.png</img>
+		<title>Sexaje de aves</title>
+		<alt>Sexaje de aves</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>servicios</idPadre>
+			<id>tienda_especializada</id>
+			<texto>Tienda especializada</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/toby.png</img>
+		<title>Tienda especializada</title>
+		<alt>Tienda especializada</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>consejos</idPadre>
+			<id>perros_y_gatos</id>
+			<texto>Perros y gatos</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/thor_y_zsazsa.png</img>
+		<title>Perros y gatos</title>
+		<alt>Perros y gatos</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>consejos</idPadre>
+			<id>roedores</id>
+			<texto>Roedores</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/nera.png</img>
+		<title>Roedores</title>
+		<alt>Roedores</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>consejos</idPadre>
+			<id>aves</id>
+			<texto>Aves</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/parrot_flickr.png</img>
+		<title>Aves</title>
+		<alt>Aves</alt>
+	</imagen>
+	<imagen>
+		<enlace>
+			<idPadre>consejos</idPadre>
+			<id>reptiles</id>
+			<texto>Reptiles</texto>
+			<href>#</href>
+		</enlace>
+		<img>/img/fotos/tortuga_infopick.png</img>
+		<title>Reptiles</title>
+		<alt>Reptiles</alt>
+	</imagen>
+</imagenes>		

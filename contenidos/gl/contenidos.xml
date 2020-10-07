@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE contenidos SYSTEM "../dtd/contenidos.dtd">
+<contenidos>
+	<apartado id="quienes_somos">
+		<titulo>Quen somos</titulo>
+		<texto>
+			<![CDATA[A Consulta Veterinaria Gala nace en 2012 na localidade de Betanzos (A Coruña) da man de Patricia Ferreira, licenciada en Veterinaria pola Universidade de Santiago e apaixoada dos animais. Esta consulta é o resultado da ilusión e vocación que Patricia sempre sentiu en relación co coidado deses seres ós que chamamos mascotas.]]>
+		</texto>
+		<texto>
+			<![CDATA[Coidamos ós nosos clientes e ós seus animais cunha atención directa e personalizada. Ofrecemos un servizo veterinario de consulta, atención domiciliaria, urxencias, perruquería canina e atención de animais exóticos, así como o asesoramento domiciliario sobre o coidado de todo tipo de mascotas.]]>
+		</texto>
+		<texto>
+			<![CDATA[Dámoslle a benvida ó noso negocio, estamos á sua disposición para todo tipo de consulta ou servizo que precisen.]]>
+		</texto>
+	</apartado>
+	<apartado id="donde_estamos">
+		<titulo>Onde estamos</titulo>
+		<texto>
+			<![CDATA[Rúa Saavedra Meneses, 52, Baixo esquerda, na saída cara á Ferrol, xunto ó semáforo.]]>
+		</texto>
+		<texto>
+			<![CDATA[Os nosos teléfonos de contacto son:]]>
+		</texto>
+		<texto>
+			<![CDATA[Fixo: 981 775 203 ]]>
+		</texto>
+		<texto>
+			<![CDATA[Móbil: 696 949 087]]>
+		</texto>
+		<texto>
+			<![CDATA[O noso correo electrónico é: contacto@cveterinariagala.com]]>
+		</texto>
+		<texto>
+			<![CDATA[<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;q=Calle+Saavedra+Meneses,+52&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+de+Saavedra+Meneses,+52,+15319+Betanzos,+A+Coru%C3%B1a,+Galicia&amp;gl=es&amp;ll=43.289000,-8.208014&amp;spn=0.012512,0.01929&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><a href="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;q=Calle+Saavedra+Meneses,+52&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+de+Saavedra+Meneses,+52,+15319+Betanzos,+A+Coru%C3%B1a,+Galicia&amp;gl=es&amp;ll=43.283745,-8.208014&amp;spn=0.012512,0.01929&amp;t=m&amp;z=14&amp;source=embed" target="_blank">Ver mapa máis grande</a>]]>
+		</texto>
+	</apartado>
+	<apartado id="contacto">
+		<titulo>Contacto</titulo>
+		<texto>
+			<![CDATA[Para poñerse en contacto con nós dispoñemos]]>
+		</texto>
+		<texto>
+			<![CDATA[Fixo: 981 775 203 ]]>
+		</texto>
+		<texto>
+			<![CDATA[Móbil: 696 949 087]]>
+		</texto>
+		<texto>
+			<![CDATA[Tamén temos unha direción de correo electrónico: contacto@cveterinariagala.com]]>
+		</texto>
+	</apartado>
+	<apartado id="atencion_a_domicilio">
+		<titulo>Atención a domicilio</titulo>
+		<texto>
+			<![CDATA[Atendemos a domicilio tanto consultas como urxencias, permitindo deste xeito, que os propietarios con dificultade para achegar á sua mascota á clínica por problemas de mobilidade ou ben polo tamaño da mascota, poden ter unha atención veterinaria personalizada. ]]>
+		</texto>
+	</apartado>
+	<apartado id="urgencias">
+		<titulo>Urxencias</titulo>
+		<texto>
+			<![CDATA[Temos un teléfono de urxencias operativo, os propietarios poderán chamar e serán atendidos siempre por un veterinario.]]>
+		</texto>
+		<texto>
+			<![CDATA[Urxencias: 696 949 087]]>
+		</texto>
+	</apartado>
+	<apartado id="peluqueria_canina">
+		<titulo>Perruquería canina</titulo>
+		<texto>
+			<![CDATA[Temos un servizo de perruquería para cans e gatos, no que se poden realizar baños, cortes de cabelo e peiteado, e baños de desparasitación.]]>
+		</texto>
+		<leyenda>
+			<![CDATA[Sempre con cita previa.]]>
+		</leyenda>
+	</apartado>
+	<apartado id="atencion_de_animales_exoticos">
+		<titulo>Atención de animais exóticos.</titulo>
+		<texto>
+			<![CDATA[Aténdense roedores, aves e réptiles, tanto na clínica como a domicilio, xa sexa para consulta ou para asesoramento sobre as condicións que un animal exótico debe ter para que esté o mais comodo posible.]]>
+		</texto>
+	</apartado>
+	<apartado id="sexaje_de_aves">
+		<titulo>Determinación do sexo nas aves</titulo>
+		<texto>
+			<![CDATA[Nas aves é complicado diferenciar o macho da femia, polo que facemos unha determinación do sexo do animal a través das plumas ou cunha gota de sangue, sen necesidade de anestesia ou intervención cirúrxica.]]>
+		</texto>
+	</apartado>
+	<apartado id="tienda_especializada">
+		<titulo>Tenda especializada</titulo>
+		<texto>
+			<![CDATA[Na nosa tenda vendemos o alimento ca súa mascota precisa para ter unha vida saudable. Temos alimento tanto para cans, gatos, coellos, hamsters...]]>
+		</texto>
+		<texto>
+			<![CDATA[Tamén poderán mercar productos para desparasitar ás súas mascotas, vitaminas, etc.]]>
+		</texto>
+	</apartado>
+	<apartado id="perros_y_gatos">
+		<titulo>Cans e gatos</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[Durante as sete primeiras semanas de vida dos cachorros só deberían alimentarse do leite materno. A partires desta idade, estarán completamente desenvolvidos e poderán ser alimentados cun pienso axeitado á súa idade que aporte os nutrientes necesarios.]]>
+		</texto>
+		<texto>
+			<![CDATA[É moi importante a desparasitación dos cachorros antes da súa primeira vacina e, posteriormente, cada vez que os vacinemos. Deste xeito conseguiremos eliminar os parásitos, estimula-las defensas e, ademáis, axudaremos a que as vacinas teñan maior efectividade.]]>
+		</texto>
+		<texto>
+			<![CDATA[Os cachorros das razas Rottweiler, Husky, Doberman e Golden Retriever, deberían ser vacinados da parvovirose antes dos 45 días de vida, xa que son moi susceptibles a dita enfermidade.]]>
+		</texto>
+		<texto>
+			<![CDATA[Os cachorros deben ser desparasitados por primeira vez ós 30 días de vida, aínda que si están moi infestados, poderiamo-lo facer antes. Despois, desparasitarémo-los cada 15 días ata rematar coa pauta de vacinación. Posteriormente, cada 3 ou 6 meses.]]>
+		</texto>
+		<texto>
+			<![CDATA[Os raticidas, na súa maioría, conteñen velenos que reducen a coagulación do sangue. Algúns actúan moi rápido mentres que outros o fan ó cabo duns días tra-la inxesta. No can envelenado os síntomas son moi inespecíficos: cansanzo, non come, non bebe, mucosas pálidas, afebril. O seu tratamento é moi sinxelo, pero teñen que ser diagnosticados a tempo, xa que poden morrer en poucos días a causa das hemorraxias internas.]]>
+		</texto>
+		<texto>
+			<![CDATA[O 80% dos tumores de mama nas gatas son malignos. O seu crecemento está asociado á secreción de estróxenos. Estudos científicos demostraron que a castración das gatas antes do primeiro celo, reducía a aparición de tumores malignos nun 86% dos casos. Se non se vai criar, é conveniente a castración da nosa gata antes do primeiro celo ou o primeiro ano de vida.]]>
+		</texto>
+	</apartado>
+	<apartado id="roedores">
+		<titulo>Roedores</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[Á hora de mercar un coello anano, debemos ter en conta que é aconsellable que teña máis de 8 semanas de vida, unha pelaxe lisa e brillante, unha mirada atenta, que se amose alegre e inquieto, que mova as orellas dun lado ó outro e que participe no que acontece ó seu carón.]]>
+		</texto>
+		<texto>
+			<![CDATA[O tamaño da gaiola para un coello anano debe ser o suficientemente grande como para que desenvolva unha correcta actividade física, calcúlase que un bó tamaño é 6 veces o tamaño do coello adulto. Aconséllase que o chan sexa liso e sen barrotes. Proporcionar un bebedeiro, unha comedeira para o alimento e unha cesta para a palla. Se temos espazo, pódese colocar unha casiña que lle proporcione refuxio.]]>
+		</texto>
+		<texto>
+			<![CDATA[A gaiola dos roedores debe colocarse nun lugar tranquilo da casa, sen correntes de aire, unha temperatura ambiental constante e cunha luz natural, evitando a exposición directa ó sol.]]>
+		</texto>
+	</apartado>
+	<apartado id="aves">
+		<titulo>Aves</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[Á hora de mercar unha ave, debemos ter en conta uns parámetros: a posición do paxaro na gaiola, o seu estado de alerta, o movemento constante da cabeza e que permaneza quieto nun sitio durante pouco tempo. Outros aspectos son os ollos, atentos e brillantes, a respiración, normal e o peteiro pechado e sen emitir ruídos. A plumaxe debe estar limpa, adherida ó corpo e brillante.]]>
+		</texto>
+		<texto>
+			<![CDATA[Para escoller unha gaiola debemos ter en conta o tamaño do paxaro. Debe ser suficientemente grande para que poida saltar e abri-las ás sen que as plumas golpeen os barrotes. Recoméndanse gaiolas cadradas ou rectangulares onde o paxaro pode atopar unha zona de seguridade, normalmente contra a parede.]]>
+		</texto>
+	</apartado>
+	<apartado id="reptiles">
+		<titulo>Reptiles</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[Para que a nosa tartaruga acuática, tamén coñecida como "de Florida", viva saudable, debemos cumprir tres principios básicos: manter a auga a unha temperatura adecuada (entre 24 e 30 ºC), manter moi limpa a auga (pode usarse un filtro) e alimenta-la con pienso para gatos cando esté na auga.]]>
+		</texto>
+		<texto>
+			<![CDATA[Debemos pór a nosa tartaruga acuática ó sol ou proporcionarlle luz ultravioleta A ou B. A luz solar é indispensáble para que poidan fixar o calcio, asimilar alimentos e sandar pequenas feridas e enfermidades da pel. Deberán ter tamén algo de sombra na que agocharse, xa que a calor excesiva podería mata-las.]]>
+		</texto>
+		<texto>
+			<![CDATA[Hai que alimenta-las tartarugas cando están na auga. Ás pequenas unha vez ó día, e ás grandes, tres veces á semana. O pienso aportará as proteinas, as vitaminas e os minerais que precisan. Sempre debemos retira-la comida que sobre cando remate de comer.]]>
+		</texto>
+		<texto>
+			<![CDATA[A maioría das enfermidades dos réptiles son debidas a unha dieta inapropiada, falla de luz solar ou ultravioleta e a un hábitat inadecuado ou con pouca hixiene.]]>
+		</texto>
+	</apartado>
+</contenidos>

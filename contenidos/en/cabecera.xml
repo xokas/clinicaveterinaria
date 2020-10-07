@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cabecera SYSTEM "../dtd/cabecera.dtd">
+<cabecera>
+	<title_web>Consulta Veterinaria Gala en Betanzos, A Coruña. Exotic animals, dogs grooming close to Miño.</title_web>
+	<metas>
+		<keywords>Consulta Veterinaria Gala, Consulta Veterinaria, Clínica Veterinaria, Consulta Veterinaria Betanzos, Consulta Veterinaria Miño, Consulta Veterinaria Paderne, Clínica Veterinaria Betanzos, Veterinary Clinic Paderne, Veterinary Clinic Miño, Betanzos, Veterinary, Exotical animals, Animal care, Veterinary emergency, Grooming service, Betanzos, Miño, A Coruña, Paderne, veterinary in Miño, veterinary in Paderne, veterinary in Betanzos</keywords>
+		<description>Consulta Veterinaria Gala in Betanzos, very close to Miño and Paderne, provides a full range of services to you and your pet: 24 hr emergency service, grooming service, home appointments and exotic animals care.</description>
+	</metas>
+	<direccion>
+		<via>Calle Saavedra Meneses 52. Bajo Izq.</via>
+		<codigo_postal>15300</codigo_postal>
+		<localidad>Betanzos</localidad>
+		<provincia>A Coruña</provincia>
+	</direccion>
+	<titulo>GALA</titulo>
+	<subtitulo>Consulta Veterinaria</subtitulo>
+	<telefono_fijo>696 949 087</telefono_fijo>
+	<telefono_movil>981 775 203</telefono_movil>
+	<decoracion>
+		<img_decorativa>pin</img_decorativa>
+		<img_recargar>reload</img_recargar>
+	</decoracion>
+	<titulo_curiosidades>Tips for your pet’s care.</titulo_curiosidades>
+	<texto_presentacion>Consulta Veterinaria Gala in Betanzos, very close to Miño and Paderne, provides a full range of services to you and your pet: 24 hr emergency service, grooming service, home appointments and exotic animals care.</texto_presentacion>
+</cabecera>

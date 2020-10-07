@@ -1,0 +1,10 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT contenidos (apartado+)>
+<!ELEMENT apartado (titulo, multi*, texto+, leyenda*)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT multi (#PCDATA)>
+<!ELEMENT texto (#PCDATA)>
+<!ELEMENT leyenda (#PCDATA)>
+
+<!ATTLIST apartado id ID #REQUIRED >

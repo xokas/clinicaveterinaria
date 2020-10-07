@@ -1,0 +1,4 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT version (numero, fecha)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>

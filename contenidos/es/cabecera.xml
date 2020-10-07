@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cabecera SYSTEM "../dtd/cabecera.dtd">
+<cabecera>
+	<title_web>Consulta Veterinaria Gala en Betanzos, A Coruña. Animales exóticos, peluquería canina cerca de Miño</title_web>
+	<metas>
+		<keywords>Consulta Veterinaria Gala, Consulta Veterinaria, Clínica Veterinaria, Consulta Veterinaria Betanzos, Consulta Veterinaria Miño, Consulta Veterinaria Paderne, Clínica Veterinaria Betanzos, Clínica Veterinaria Paderne, Clínica Veterinara Miño, Betanzos, Veterinaria, Veterinarios, Animales exóticos, cuidado animales, urgencias veterinarias, peluquería canina, Betanzos, Miño, A Coruña, Paderne, veterinarios en Miño, veterinarios en Paderne, veterinarios en Betanzos</keywords>
+		<!--<description>Consulta Veterinaria Gala en Betanzos, ofrecemos un servicio veterinario de consulta, atención a domicilio, urgencias, peluquería canina y atención de animales exóticos, así como el asesoramiento a domicilio de cómo se debe cuidar a todo tipo de animales</description>-->
+		<description>La Consulta Veterinaria Gala de Betanzos, muy cerca de Miño y Paderne, dispone de un amplio abanico de servicios a disposición suya y de sus mascotas: urgencias, peluquería canina, atención a domicilio y de animales exóticos.</description>
+	</metas>
+	<direccion>
+		<via>Calle Saavedra Meneses 52. Bajo Izq.</via>
+		<codigo_postal>15300</codigo_postal>
+		<localidad>Betanzos</localidad>
+		<provincia>A Coruña</provincia>
+	</direccion>
+	<titulo>GALA</titulo>
+	<subtitulo>Consulta Veterinaria</subtitulo>
+	<telefono_fijo>696 949 087</telefono_fijo>
+	<telefono_movil>981 775 203</telefono_movil>
+	<decoracion>
+		<img_decorativa>chincheta</img_decorativa>
+		<img_recargar>recargar</img_recargar>
+	</decoracion>
+	<titulo_curiosidades>Consejos para tu mascota.</titulo_curiosidades>
+	<texto_presentacion>La Consulta Veterinaria Gala de Betanzos, muy cerca de Miño y Paderne, dispone de un amplio abanico de servicios a disposición suya y de sus mascotas: urgencias, peluquería canina, atención a domicilio y de animales exóticos.</texto_presentacion>
+</cabecera>

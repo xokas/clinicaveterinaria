@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE imagenes SYSTEM "../dtd/galeria.dtd">
+<galeria>
+	<imagen>
+		<img>/img/fotos_galeria/Selva.jpg</img>
+		<txt>Selva</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Leo.jpg</img>
+		<txt>Leo</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Max.jpg</img>
+		<txt>Max</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Toy.jpg</img>
+		<txt>Toy</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Nera.jpg</img>
+		<txt>Nera</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Morita.jpg</img>
+		<txt>Morita</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Thor_y_ZsaZsa.jpg</img>
+		<txt>Thor y Zsazsa</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Toby.jpg</img>
+		<txt>Toby</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Nikki.jpg</img>
+		<txt>Nikki</txt>
+	</imagen>
+	<imagen>
+		<img>/img/fotos_galeria/Waldo.jpg</img>
+		<txt>Waldo</txt>
+	</imagen>
+</galeria>		

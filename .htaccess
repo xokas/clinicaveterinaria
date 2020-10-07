@@ -1,0 +1,29 @@
+#A incluir/modificar en httpd.conf
+#DocumentRoot "C:/Users/jlousa/workspace/"
+# descomentar:
+#LoadModule rewrite_module modules/mod_rewrite.so 
+
+DirectoryIndex inicio.php index.php5
+#DirectoryIndex index.php index.html index.htm /prohibido.php
+
+RewriteEngine on
+RewriteCond    %{REQUEST_FILENAME}  -d
+#RewriteRule    ^(.+[^/])$           $1/
+#RewriteRule ^error/([0-9]{3}+)/?$ /error/$1.php [L]
+RewriteRule ^error/([0-9]{3}+)/?$ /error/error.php?e=$1 [L]
+#RewriteRule ^([A-Za-z]{2}+)/ /?lang=$1 [L] ->generica para idiomas pero entra en conflicto con los javascript (js) 
+RewriteRule ^es/ /?lang=es [L] 
+RewriteRule ^en/ /?lang=en [L] 
+RewriteRule ^gl/ /?lang=gl [L] 
+#RewriteRule /error/404/ /error/error.php?e=404
+#RewriteRule /error/500/ /error/error.php?e=500
+#RewriteBase    /
+#RewriteCond    %{REQUEST_FILENAME}  -d
+#RewriteRule    ^(.+[^/])$           $1/
+#RewriteRule ^category/(.+)$ http://www.tudominio.com/$1 [R=301,L]
+
+Options -Indexes
+
+ErrorDocument 403 /error/error.php?e=403
+ErrorDocument 404 /error/error.php?e=404
+ErrorDocument 500 /error/error.php?e=500

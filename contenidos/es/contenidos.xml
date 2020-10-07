@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE contenidos SYSTEM "../dtd/contenidos.dtd">
+<contenidos>
+	<apartado id="quienes_somos">
+		<titulo>Quiénes somos</titulo>
+		<texto>
+			<![CDATA[La Consulta Veterinaria Gala nace en 2012 en la localidad de Betanzos (La Coruña) de la mano
+			de Patricia Ferreira, Licenciada en Veterinaria por la Universidad de Santiago y apasionada de
+			los animales. Esta consulta es el resultado de la ilusión y la vocación que Patricia siempre ha
+			sentido en relación al cuidado de esos queridos seres vivos a los que llamamos mascotas.
+			]]>
+		</texto>
+		<texto>
+			<![CDATA[Cuidamos a nuestros clientes y a sus animales con una atención directa y personalizada, y un
+			trato cercano. Ofrecemos un servicio veterinario de consulta, atención a domicilio, urgencias,
+			peluquería canina y atención de animales exóticos, así como el asesoramiento a domicilio de
+			cómo se debe cuidar a todo tipo de animales.]]>
+		</texto>
+		<texto>
+			<![CDATA[Les damos la bienvenida a nuestro negocio y estamos a su disposición para cualquier consulta
+			o servicio que necesiten.]]>
+		</texto>
+	</apartado>
+	<apartado id="donde_estamos">
+		<titulo>Dónde estamos</titulo>
+		<texto>
+			<![CDATA[Ubicada en Betanzos, estamos situados en la calle Saavedra Meneses, 52. Bajo Izq. En la salida
+			hacia Ferrol, junto al semáforo. Nuestros teléfonos de contacto son el teléfono fijo 981 775 203
+			y el teléfono móvil  696 949 087.]]>
+		</texto>
+		<texto>
+			<![CDATA[Nuestro correo electrónico es contacto@cveterinariagala.com]]>
+		</texto>
+		<texto>
+			<![CDATA[<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;q=Calle+Saavedra+Meneses,+52&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+de+Saavedra+Meneses,+52,+15319+Betanzos,+A+Coru%C3%B1a,+Galicia&amp;gl=es&amp;ll=43.289000,-8.208014&amp;spn=0.012512,0.01929&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><a href="http://maps.google.es/maps?oe=utf-8&amp;client=firefox-a&amp;q=Calle+Saavedra+Meneses,+52&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+de+Saavedra+Meneses,+52,+15319+Betanzos,+A+Coru%C3%B1a,+Galicia&amp;gl=es&amp;ll=43.283745,-8.208014&amp;spn=0.012512,0.01929&amp;t=m&amp;z=14&amp;source=embed" target="_blank">Ver mapa más grande</a>]]>
+		</texto>
+	</apartado>
+	<apartado id="contacto">
+		<titulo>Contacto</titulo>
+		<texto>
+			<![CDATA[Para ponerse en contacto con nosotros disponemos de dos teléfonos el  fijo 981 775 203
+			y el teléfono móvil  696 949 087.]]>
+		</texto>
+		<texto>
+			<![CDATA[También tenemos una dirección de correo electrónico contacto@cveterinariagala.com]]>
+		</texto>
+	</apartado>
+	<apartado id="atencion_a_domicilio">
+		<titulo>Atención a domicilio</titulo>
+		<texto>
+			<![CDATA[Atendemos a domicilio tanto consultas como urgencias. Permitiendo así,
+			que los propietarios que no puedan acercar su mascota a la clínica por problemas de movilidad
+			o bien por la gran envergadura de su mascota, puedan tener una atención veterinaria
+			personalizada.]]>
+		</texto>
+	</apartado>
+	<apartado id="urgencias">
+		<titulo>Urgencias</titulo>
+		<texto>
+			<![CDATA[Tenemos un teléfono de urgencias operativo,  los propietarios
+			podrán llamar y serán siempre atendidos por un veterinario.]]>
+		</texto>
+		<texto>
+			<![CDATA[Urgencias: 696 949 087]]>
+		</texto>
+	</apartado>
+	<apartado id="peluqueria_canina">
+		<titulo>Peluquería canina</titulo>
+		<texto>
+			<![CDATA[Tenemos servicio de peluquería para perros y gatos, en el que se realizan
+			 baño, corte de pelo y peinado, como baños de desparasitación.]]>
+		</texto>
+		<leyenda>
+			<![CDATA[Siempre previa cita.]]>
+		</leyenda>
+	</apartado>
+	<apartado id="atencion_de_animales_exoticos">
+		<titulo>Atención de animales exóticos</titulo>
+		<texto>
+			<![CDATA[Se atienden roedores, aves y reptiles, tanto en la clínica como a
+			domicilio, ya sea para consulta o para asesoramiento de cuáles son las condiciones que debe
+			de tener un animal “exótico” para que esté lo más cómodo posible.]]>
+		</texto>
+	</apartado>
+	<apartado id="sexaje_de_aves">
+		<titulo>Sexaje de aves</titulo>
+		<texto>
+			<![CDATA[En las aves es bastante difícil diferenciar el macho de la hembra 
+			por ello hacemos  sexado de aves, mediante las plumas o con una gota de 
+			sangre, sin necesidad de anestesia, lo que le permitirá conocer el género 
+			de su mascota.]]>
+		</texto>
+	</apartado>
+	<apartado id="tienda_especializada">
+		<titulo>Tienda especializada</titulo>
+		<texto>
+			<![CDATA[En nuestra tienda vendemos el alimento que su mascota necesita para tener una vida sana. Alimento tanto para perros, gatos, conejos, hamsters...]]>
+		</texto>
+		<texto>
+			<![CDATA[También podrán comprar productos para desparasitar a sus mascotas, vitaminas, etc.]]>
+		</texto>
+	</apartado>
+	<apartado id="perros_y_gatos">
+		<titulo>Perros y gatos</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[Durante las siete primeras semanas de vida el cachorro y el gatito sólo deben alimentase de leche materna.  A partir de esta edad, estarán completamente desarrollados y pueden ser alimentados con un pienso adecuado a su edad, que les aporte los nutrientes necesarios.]]>
+		</texto>
+		<texto>
+			<![CDATA[Es muy importante la desparasitación de los cachorros antes de su primera vacuna, y posteriormente cada vez que los vacunemos. Con ello conseguiremos eliminar los parásitos, una estimulación de las defensas y además ayudará a que la vacuna tenga un mayor efecto.]]>
+		</texto>
+		<texto>
+			<![CDATA[Los cachorros de las razas Rottweiler, Husky, Doberman y Golden Retriever , deberían ser vacunados de la "parvovirosis" antes de los 45 días ya que son muy susceptibles a esta enfermedad.]]>
+		</texto>
+		<texto>
+			<![CDATA[Los cachorros y los gatitos deben ser desparasitados por primera vez a los 30 días de vida, aunque si están muy infestados se podría hacer antes. Después se desparasitarán cada 15 días, hasta terminar la pauta de vacunación.  Posteriormente se desparasitarán cada 3 ó 6 meses.]]>
+		</texto>
+		<texto>
+			<![CDATA[Los raticidas en su mayoría contienen venenos que reducen la coagulación de la
+				sangre. Algunos de ellos actúan muy rápidamente, sin embargo otros actúan al cabo de unos
+				días tras su ingestión. En el perro envenenado los síntomas son muy inespecíficos: cansancio,
+				no come, no bebe, mucosas pálidas, sin fiebre. Su tratamiento es muy sencillo, pero tienen
+				que ser diagnosticados a tiempo, ya que pueden morir en pocos días como consecuencia de las
+				hemorragias internas.]]>
+		</texto>
+		<texto>
+			<![CDATA[En la gata el 80% de los tumores de mama son malignos. Su crecimiento está asociado a
+				la secreción de estrógenos. Por eso distintos estudios han demostrado que la castración de las
+				gatas antes del primer celo reduce la aparición de tumores mamarios casi en un 86% de los casos.
+				Si no se va a criar, es conveniente la castración de nuestra gata antes del primer celo o durante su
+				primer año de vida.]]>
+		</texto>
+		<texto>
+			<![CDATA[El carcinoma de células escamosas es la neoplasia epitelial más frecuentes del perro. Es un tumor que aparece básicamente en cabeza y orejas de perros de piel blanca, Dálmata, Boxer, Bull terrier...; y en dedos y patas de perros de piel negra, Schnauzer gigante, Rottweiler... Este tipo de tumores suele presentarse como una lesión ulcerosa que no se cura tras varias semanas de tratamiento y que ademas incrementa su tamaño.</p>
+			<p>El diagnóstico puede realizarse tras hacer una citología, una  biópsia o bien extirpándolo en su totalidad y haciendo un análisis del tejido.</p>
+			<p>Si se confirma el diagnóstico, el primer paso será la extirpación del tumor mediante cirugía (si es factible) y posteriormente se puede aplicar radioterapia o quimioterapia. Es importante hacer una radiografía del tórax y del abdomen para ver si existen metástasis.</p>
+			<p>El 50% de este tipo de tumores extirpados suelen recidivar a los 2-4 años, por ello es muy importante hacer un seguimiento del animal.]]> 
+		</texto> 
+		<texto>
+			<![CDATA[La castración del perro o del gato supone la extirpación de los testículos, lo que lleva asociado la eliminación de la testosterona en sangre. Que conseguimos con esto que el perro no se escape cuando hay una hembra en celo, se muestre menos agresivo con otros machos, que no marque el territorio ( no nos orine en el sofa) y deja de ejercer el dominio de la jauría.</p>
+			<p>Todo esto no va a suponer que cambie el carácter, nuestra mascota va a seguir siendo juguetón, obediente, etc.</p> 
+			<p>Tendremos que tener cuidado con la dieta, ya que tendrán tendencia a engordar. Podemos seguir manteniendo la misma cantidad de pienso que nos demandaba antes de ser castrado, sin incrementarle la ración o bien podemos darle un pienso light.]]>
+		</texto> 
+		<texto>
+			<![CDATA[La castración de la perra y de la gata consiste básicamente  en la extracción, mediante cirugía, del aparato reproductor femenino, es decir útero y ovarios.</p>
+			<p>Se ha observado que la castración de las hembras antes del primer celo, suele aparecer entre los 6 y los 10 meses, reduce en un 80% las posibilidades de que estas hembras desarrollen tumores de mama.</p>
+			<p>Por eso si el propietario tiene claro que no va a criar se recomienda la castración a los seis meses de edad. No habrá que estar pendiente del celo ni de la visita de algún macho interesado en nuestra hembra.</p>
+			<p>Tras la castración la mascota va a tener más apetito como consecuencia de la disminución de los estrógenos en sangre, por ello es conveniente controlar la cantidad que come y el peso de nuestro animal, sin dejar de pensar que tiene que seguir creciendo ya que ha esta edad todavía son cachorros.</p>
+			<p>Cuando son adultos habrá que controlar muy bien la ración diaria o bien darle un pienso light.]]>
+		</texto> 
+	</apartado>
+	<apartado id="roedores">
+		<titulo>Roedores</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[A la hora de comprar un conejo enano hay que tener en cuenta que es aconsejable que tenga más de 8 semanas de vida.  Hay que fijarse también en que tenga un pelaje liso y brillante, una mirada atenta, que se muestre alegre e inquieto, que mueva las orejas de un lado para otro y que participe en lo que le rodea.]]>
+		</texto>
+		<texto>
+			<![CDATA[El tamaño de la jaula para un conejo enano debe ser lo suficientemente grande para que desarrolle una correcta actividad física, se calcula que un buen tamaño es 6 veces el tamaño del conejo adulto. El suelo es aconsejable que sea liso, sin barrotes. Hay que proporcionarle un bebedero, un comedero para el pienso y un cestillo para el heno. Si tenemos espacio se le puede colocar una cueva o caseta que le permita refugiarse.]]>
+		</texto>
+		<texto>
+			<![CDATA[La jaula de cualquier roedor debe colocarse en un lugar tranquilo de la casa, exento de corrientes de aire, con una temperatura ambiental constante. Es preferible evitar la exposición directa a la luz de sol al mismo tiempo que se necesita que exista iluminación diurna, no únicamente artificial.]]>
+		</texto>
+	</apartado>
+	<apartado id="aves">
+		<titulo>Aves</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[A la hora de adquirir un ave debemos fijarnos en una serie de parámetros: la posición del pájaro en el posadero, su estado de alerta, que tenga la cabeza siempre en movimiento y que permanezca poco tiempo parado. Otros aspectos que tenemos que analizar es si tiene los ojos atentos y brillantes, la respiración normal y el pico cerrado y sin ruidos. En cuanto al plumaje debe estar limpio, adherido al cuerpo y brillante.]]>
+		</texto>
+		<texto>
+			<![CDATA[A la hora de elegir la jaula para nuestra ave debemos tener en cuenta el tamaño de ésta. Debe ser lo suficientemente grande para que pueda saltar y extender las alas entre los posaderos sin que las plumas golpeen los barrotes. Se recomiendan las jaulas cuadradas o rectangulares donde el pájaro podrá encontrar una zona de seguridad, normalmente la más cercana a la pared.]]>
+		</texto>
+	</apartado>
+	<apartado id="reptiles">
+		<titulo>Reptiles</titulo>
+		<multi>true</multi>
+		<texto>
+			<![CDATA[Para que nuestra tortuga acuática, también conocida como de Florida, esté sana debemos cumplir tres principios básicos: mantener el agua a una temperatura adecuada (entre 24 y 30 ºC), mantener muy limpia el agua (puede usarse un filtro) y alimentarla con "pienso de gato" mientras esté en el agua. ]]>
+		</texto>
+		<texto>
+			<![CDATA[Debemos de poner a nuestra tortuga acuática al sol o bien proporcionarle luz ultravioleta A o B. La luz solar es indispensable para que puedan fijar adecuadamente el calcio, asimilar el alimento y sanar pequeños rasguños y enfermedades de la piel.  Al mismo tiempo, hay que asegurarse de que hay algo de sombra disponible hacia la que escapar del calor, ya que si no podría morir rápidamente.]]>
+		</texto>
+		<texto>
+			<![CDATA[Hay que alimentar a las tortugas acuáticas cuando están en el agua. A las tortugas pequeñas una vez al día y a las grandes tres veces por semana. El pienso le aportará las proteínas, vitaminas y minerales que necesita. Siempre hay que retirar la comida sobrante cuando la tortuga deja de comer.]]>
+		</texto>
+		<texto>
+			<![CDATA[La mayoría de las enfermedades de los reptiles se deben a una dieta inapropiada, a la falta de luz solar o ultravioleta, a un hábitat inadecuado o a poca higiene en dicho hábitat.]]>
+		</texto>
+	</apartado>
+</contenidos>

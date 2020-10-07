@@ -1,0 +1,7 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT galeria (imagen+)>
+<!ELEMENT imagen (img, txt)>
+<!ELEMENT img (#PCDATA)>
+<!ELEMENT txt (#PCDATA)>
+
+

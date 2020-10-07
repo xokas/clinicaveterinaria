@@ -1,0 +1,160 @@
+*{
+	border: 0;
+    margin: 0;
+    padding: 0;
+}
+body{
+	/*font-family: "Century Gothic";*/
+	font-family: "Minyanouvelle";
+    font-weight: normal;
+    font-size: 14px;
+	width: 100%;
+	text-align: center;
+	/*min-width: 430px;*/
+	min-width: 1000px;
+	position: relative;
+	min-height: 600px;
+	background-color: #EFEFEF;
+}
+/* MARCO WEB */
+#marco_sup{
+	margin-top: 10px;
+}
+.marco{
+	height: 24px;
+	width: 100%;
+}
+#superior{
+	width: 100%;
+	height: 24px;
+	/*background-color: black;*/
+}
+.marco_lateral{
+	float: left;   
+	width: 15%; 
+	min-width: 24px; 
+	position: relative;
+	background-color: #EFEFEF;
+	background-repeat: no-repeat;
+	z-index: 1;
+}
+.marco_horizontal{
+	background-image: url("/img/madera_roble.jpg");
+	background-repeat: repeat;
+	float: left;  
+	width: 70%; 
+	/*max-width: 100%; diseño líquido*/
+	/*max-width: 1009px;  diseño aúreo */  
+	min-width: 300px;
+	height: 24px;
+	position: relative;
+    z-index: 9;
+}
+#marco_tl{
+	height: 24px;
+	background-position: top right;
+	background-image: url("/img/madera_roble_esq_tl.jpg");
+	z-index: 9;
+}
+#marco_bl{
+	height: 24px;
+	background-position: bottom right;
+	background-image: url("/img/madera_roble_esq_bl.jpg");
+	z-index: 9;
+}
+#marco_tr{
+	height: 24px;
+	background-position: top left;
+	background-image: url("/img/madera_roble_esq_tr.jpg");
+	z-index: 9;
+}
+#marco_br{
+	height: 24px;
+	background-position: bottom left;
+	background-image: url("/img/madera_roble_esq_br.jpg");
+	z-index: 9;
+}
+#marco_izq, #marco_der{
+	background-image: url("/img/madera_roble_vert_24_24.jpg");
+	background-repeat: repeat-y;
+	max-height: 100%;
+    min-height: 100%;
+    position: absolute;
+    z-index: 1;
+}
+#marco_izq{
+	background-position: top right;
+	top:0;
+	left: 0;
+}
+#marco_der{
+	background-position: top left;
+	top:0;
+	right: 0;
+}
+.contenido {
+	/*background-image: url("/img/madera_roble_vert_24_24.jpg");*/
+	min-width: 380px; 
+	width: 100%;
+	min-height: 537px;
+}
+.corcho{
+	background-image: url("/img/corcho.jpg");
+	float: left;
+	margin-left: 15%;
+	margin-right: 15%;
+	width: 70%;
+	/*max-width: 1009px;*/
+	min-height: 537px;
+    box-shadow:         inset 0 0 10px #000000;
+}
+/* PIE WEB */
+#pie {
+    /*font-family: "Century Gothic";*/
+    font-family: "Verdana" !important;
+    font-size: 9px !important;
+    height: 30px;
+    text-align: center;
+    background-color: #EFEFEF;
+    width: 70%;
+   	min-width: 430px;
+   	position: relative;
+   	z-index: 9;
+   	padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5px;
+}
+.enlaces_pie {
+    float: left;
+}
+.enlaces_pie ul li {
+    float: left;
+    list-style-type: none;
+    margin-left: 5px;
+}
+.enlaces_pie a {
+    opacity: 0.5;
+}
+.enlaces_pie a img {
+    border: 0 none;
+}
+.enlaces_pie a:hover{
+	opacity: 1;
+}
+.neni2 {
+    margin-top: -5px;
+}
+.neni2 img {
+    height: 12px;
+    margin-top: 5px;
+    width: 12px;
+}
+.cl_b{
+	clear: both;
+}
+.fl_l{
+	float: left !important;
+}
+.fl_r{
+	float: right !important;
+}

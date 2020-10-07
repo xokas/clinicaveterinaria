@@ -1,0 +1,13 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT imagenes (imagen+)>
+<!ELEMENT imagen (enlace, img, title, alt)>
+<!ELEMENT enlace (idPadre, id, texto, href)>
+<!ELEMENT img (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT alt (#PCDATA)>
+<!ELEMENT idPadre (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT texto (#PCDATA)>
+<!ELEMENT href (#PCDATA)>
+
+

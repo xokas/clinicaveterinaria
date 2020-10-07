@@ -1,0 +1,20 @@
+<?xml encoding="UTF-8"?>
+<!ELEMENT cabecera (title_web, metas, direccion, titulo, subtitulo, telefono_fijo, telefono_movil, decoracion, titulo_curiosidades, texto_presentacion)>
+<!ELEMENT title_web (#PCDATA)>
+<!ELEMENT metas (keywords, description)>
+<!ELEMENT keywords (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT direccion (via, codigo_postal, localidad, provincia)>
+<!ELEMENT via (#PCDATA)>
+<!ELEMENT codigo_postal (#PCDATA)>
+<!ELEMENT localidad (#PCDATA)>
+<!ELEMENT provincia (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT subtitulo (#PCDATA)>
+<!ELEMENT telefono_fijo (#PCDATA)>
+<!ELEMENT telefono_movil (#PCDATA)>
+<!ELEMENT decoracion (img_decorativa, img_recargar)>
+<!ELEMENT titulo_curiosidades (#PCDATA)>
+<!ELEMENT texto_presentacion (#PCDATA)>
+<!ELEMENT img_decorativa (#PCDATA)>
+<!ELEMENT img_recargar (#PCDATA)>

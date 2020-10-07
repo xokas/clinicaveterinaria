@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE curiosidades SYSTEM "../dtd/curiosidades.dtd">
+<textos>
+	<texto id="n1">
+		<parrafo>
+			<![CDATA[<strong>CANS E GATOS:</strong> Durante as sete primeiras semanas de vida dos cachorros só deberían alimentarse do leite materno. A partires desta idade, estarán completamente desenvolvidos e poderán ser alimentados cun pienso axeitado á súa idade que aporte os nutrientes necesarios.]]>
+		</parrafo>
+	</texto>
+	<texto id="n2">
+		<parrafo>
+			<![CDATA[<strong>CANS E GATOS:</strong> É moi importante a desparasitación dos cachorros antes da súa primeira vacina e, posteriormente, cada vez que os vacinemos. Deste xeito conseguiremos eliminar os parásitos, estimula-las defensas e, ademáis, axudaremos a que as vacinas teñan maior efectividade.]]>
+		</parrafo>
+	</texto>
+	<texto id="n3">
+		<parrafo>
+			<![CDATA[<strong>CANS:</strong> Os cachorros das razas Rottweiler, Husky, Doberman e Golden Retriever, deberían ser vacinados da parvovirose antes dos 45 días de vida, xa que son moi susceptibles a dita enfermidade.]]>
+		</parrafo>
+	</texto>
+	<texto id="n4">
+		<parrafo>
+			<![CDATA[<strong>CANS E GATOS:</strong> Os cachorros deben ser desparasitados por primeira vez ós 30 días de vida, aínda que si están moi infestados, poderiamo-lo facer antes. Despois, desparasitarémo-los cada 15 días ata rematar coa pauta de vacinación. Posteriormente, cada 3 ou 6 meses.]]>
+		</parrafo>
+	</texto>
+	<texto id="n5">
+		<parrafo>
+			<![CDATA[<strong>COELLOS:</strong> Á hora de mercar un coello anano, debemos ter en conta que é aconsellable que teña máis de 8 semanas de vida, unha pelaxe lisa e brillante, unha mirada atenta, que se amose alegre e inquieto, que mova as orellas dun lado ó outro e que participe no que acontece ó seu carón.]]>
+		</parrafo>
+	</texto>
+	<texto id="n6">
+		<parrafo>
+			<![CDATA[<strong>COELLOS:</strong> O tamaño da gaiola para un coello anano debe ser o suficientemente grande como para que desenvolva unha correcta actividade física, calcúlase que un bó tamaño é 6 veces o tamaño do coello adulto. Aconséllase que o chan sexa liso e sen barrotes. Proporcionar un bebedeiro, unha comedeira para o alimento e unha cesta para a palla. Se temos espazo, pódese colocar unha casiña que lle proporcione refuxio.]]>
+		</parrafo>
+	</texto>
+	<texto id="n7">
+		<parrafo>
+			<![CDATA[<strong>ROEDORES:</strong> A gaiola dos roedores debe colocarse nun lugar tranquilo da casa, sen correntes de aire, unha temperatura ambiental constante e cunha luz natural, evitando a exposición directa ó sol.]]>
+		</parrafo>
+	</texto>	
+	<texto id="n8">
+		<parrafo>
+			<![CDATA[<strong>AVES:</strong> Á hora de mercar unha ave, debemos ter en conta uns parámetros: a posición do paxaro na gaiola, o seu estado de alerta, o movemento constante da cabeza e que permaneza quieto nun sitio durante pouco tempo. Outros aspectos son os ollos, atentos e brillantes, a respiración, normal e o peteiro pechado e sen emitir ruídos. A plumaxe debe estar limpa, adherida ó corpo e brillante.]]>
+		</parrafo>
+	</texto>	
+	<texto id="n9">
+		<parrafo>
+			<![CDATA[<strong>AVES:</strong> Para escoller unha gaiola debemos ter en conta o tamaño do paxaro. Debe ser suficientemente grande para que poida saltar e abri-las ás sen que as plumas golpeen os barrotes. Recoméndanse gaiolas cadradas ou rectangulares onde o paxaro pode atopar unha zona de seguridade, normalmente contra a parede.]]>
+		</parrafo>
+	</texto>	
+	<texto id="n10">
+		<parrafo>
+			<![CDATA[<strong>TARTARUGAS:</strong> Para que a nosa tartaruga acuática, tamén coñecida como "de Florida", viva saudable, debemos cumprir tres principios básicos: manter a auga a unha temperatura adecuada (entre 24 e 30 ºC), manter moi limpa a auga (pode usarse un filtro) e alimenta-la con pienso para gatos cando esté na auga.]]>
+		</parrafo>
+	</texto>	
+	<texto id="n11">
+		<parrafo>
+			<![CDATA[<strong>TARTARUGAS:</strong> Debemos pór a nosa tartaruga acuática ó sol ou proporcionarlle luz ultravioleta A ou B. A luz solar é indispensáble para que poidan fixar o calcio, asimilar alimentos e sandar pequenas feridas e enfermidades da pel. Deberán ter tamén algo de sombra na que agocharse, xa que a calor excesiva podería mata-las.]]>
+		</parrafo>
+	</texto>	
+	<texto id="n12">
+		<parrafo>
+			<![CDATA[<strong>TARTARUGAS:</strong> Hai que alimenta-las tartarugas cando están na auga. Ás pequenas unha vez ó día, e ás grandes, tres veces á semana. O pienso aportará as proteinas, as vitaminas e os minerais que precisan. Sempre debemos retira-la comida que sobre cando remate de comer.]]>
+		</parrafo>
+	</texto>	
+	<texto id="n13">
+		<parrafo>
+			<![CDATA[<strong>REPTILES:</strong> A maioría das enfermidades dos réptiles son debidas a unha dieta inapropiada, falla de luz solar ou ultravioleta e a un hábitat inadecuado ou con pouca hixiene.]]>
+		</parrafo>
+	</texto>
+	<texto id="n14">
+		<parrafo>
+			<![CDATA[<strong>CANS:</strong> Os raticidas, na súa maioría, conteñen velenos que reducen a coagulación do sangue. Algúns actúan moi rápido mentres que outros o fan ó cabo duns días tra-la inxesta. No can envelenado os síntomas son moi inespecíficos: cansanzo, non come, non bebe, mucosas pálidas, afebril. O seu tratamento é moi sinxelo, pero teñen que ser diagnosticados a tempo, xa que poden morrer en poucos días a causa das hemorraxias internas.]]>
+		</parrafo>
+	</texto>
+	<texto id="n15">
+		<parrafo>
+			<![CDATA[<strong>GATOS:</strong> O 80% dos tumores de mama nas gatas son malignos. O seu crecemento está asociado á secreción de estróxenos. Estudos científicos demostraron que a castración das gatas antes do primeiro celo, reducía a aparición de tumores malignos nun 86% dos casos. Se non se vai criar, é conveniente a castración da nosa gata antes do primeiro celo ou o primeiro ano de vida.]]>
+		</parrafo>
+	</texto>	
+</textos>

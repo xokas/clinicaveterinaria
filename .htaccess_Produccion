@@ -1,0 +1,28 @@
+# -FrontPage-
+
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName cveterinariagala.com
+AuthUserFile /home/gvoanibx/public_html/_vti_pvt/service.pwd
+AuthGroupFile /home/gvoanibx/public_html/_vti_pvt/service.grp
+
+RewriteEngine on
+RewriteCond    %{REQUEST_FILENAME}  -d
+RewriteRule    ^(.+[^/])$           $1/
+#RewriteRule ^error/([0-9]{3}+)/?$ /error/$1.php [L]
+RewriteRule ^error/([0-9]{3}+)/?$ /error/error.php?e=$1 [L]
+
+Options -Indexes
+
+ErrorDocument 403 /error/error.php?e=403
+ErrorDocument 404 /error/error.php?e=404
+ErrorDocument 500 /error/error.php?e=500

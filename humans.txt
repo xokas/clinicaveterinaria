@@ -1,0 +1,36 @@
+/* TEAM */                
+Developer and knowledge: Joaquín Lousa Vidal                          
+Mail: joaquin.lousa[arroba]gmail.com                           
+Location: Spain
+                           
+Design and passion: Henar Rodríguez Cuñado                       
+Mail: henarrodriguezcunado[arroba]gmail.com                           
+Location: Spain
+
+Languages and philology: Beatriz Avelaira Paraje
+Location: Spain
+
+/* THANKS */		
+Name: Patricia Ferreira Poblete, por fiarse y por Selva y Lis.
+
+Name: Lucía Alejandre por Max y Leo.
+
+Name: Susana Fernández por Toby.
+
+Name: Marta Padín por Nera y Nikki.
+
+Name: Mercedes Redondo por Waldo, Buck y Shasha.
+
+Name: Inma Sánchez y Sergio Aguilar por Pico.
+
+Name: Isabel Cuñado por Toy.
+
+/* SITE */                           
+Last update: 2013/04/20                            
+Standards: HTML5, CSS3, Javascript
+Language: Castellano, Galego, English
+Software: Eclipse, Subversion, Gimp, Notepad++
+Hosting: www.redcoruna.es
+Fonts: www.fontsquirrel.com
+Font License: http://www.fontspring.com/fflicense/typodermic
+Images: www.photopin.com, www.flickr.com, Licensed Creative Commons

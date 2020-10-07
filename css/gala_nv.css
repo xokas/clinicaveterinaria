@@ -1,0 +1,140 @@
+/*@CHARSET "ISO-8859-1";*/
+/* CONTENIDOS */
+#logo, #logo_pizarra, #logo_encerado{
+	 rotation: 355deg;
+	 -moz-transform: rotate(355deg);
+	 -webkit-transform: rotate(355deg);
+	 -ms-transform: rotate(355deg);
+	 -o-transform: rotate(355deg);
+}
+#titulo, #titulo_pizarra, #titulo_encerado{
+	 /*rotation: 350deg;
+     -moz-transform: rotate(350deg);
+	 -webkit-transform: rotate(350deg);
+	 -ms-transform: rotate(350deg);
+	 -o-transform: rotate(350deg);*/
+	 rotation: 357deg;
+     -moz-transform: rotate(357deg);
+	 -webkit-transform: rotate(357deg);
+	 -ms-transform: rotate(357deg);
+	 -o-transform: rotate(357deg);
+}
+#subtitulo, #subtitulo_pizarra, #subtitulo_encerado{
+	 /*rotation: 8deg;
+	 -moz-transform: rotate(8deg);
+	 -webkit-transform: rotate(8deg);
+	 -ms-transform: rotate(8deg);
+	 -o-transform: rotate(8deg);*/
+	 rotation: 3deg;
+	 -moz-transform: rotate(3deg);
+	 -webkit-transform: rotate(3deg);
+	 -ms-transform: rotate(3deg);
+	 -o-transform: rotate(3deg);
+}
+.postit{
+	behavior: url(/css/htc/PIE.htc); 
+	-moz-box-shadow:    1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+}
+#mail, #mail_pizarra, #mail_encerado{
+	/*rotation: 356deg;
+	-moz-transform: rotate(356deg);
+	-webkit-transform: rotate(356deg);
+	-ms-transform: rotate(356deg);
+	-o-transform: rotate(356deg);*/
+	rotation: 358deg;
+	-moz-transform: rotate(358deg);
+	-webkit-transform: rotate(358deg);
+	-ms-transform: rotate(358deg);
+	-o-transform: rotate(358deg);
+}
+#direccion, #direccion_pizarra, #direccion_encerado{
+	/*rotation: 7deg;	
+	-moz-transform: rotate(7deg);
+	-webkit-transform: rotate(7deg);
+	-ms-transform: rotate(7deg);
+	-o-transform: rotate(7deg);*/
+	rotation: 4deg;	
+	-moz-transform: rotate(4deg);
+	-webkit-transform: rotate(4deg);
+	-ms-transform: rotate(4deg);
+	-o-transform: rotate(4deg);
+}
+#telefonos, #telefonos_pizarra, #telefonos_encerado{
+	rotation: 2deg;
+	-moz-transform: rotate(2deg);
+	-webkit-transform: rotate(2deg);
+	-ms-transform: rotate(2deg);
+	-o-transform: rotate(2deg);
+}
+/* MARCO WEB */
+.corcho{
+	-moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+}
+/* PIE WEB */
+/* CURIOSIDADES */
+#titulo_curiosidades{
+	rotation: 352deg;
+	-moz-transform: rotate(352deg);
+	-webkit-transform: rotate(352deg);
+	-ms-transform: rotate(352deg);
+	-o-transform: rotate(352deg);
+}
+/* ESCRITORIO */
+.pos1{
+	rotation: 352deg;
+	-moz-transform: rotate(352deg);
+	-webkit-transform: rotate(352deg);
+	-ms-transform: rotate(352deg);
+	-o-transform: rotate(352deg);
+}
+.pos2{
+	rotation: 15deg;
+	-moz-transform: rotate(15deg);
+	-webkit-transform: rotate(15deg);
+	-ms-transform: rotate(15deg);
+	-o-transform: rotate(15deg);
+}
+.pos3{
+	rotation: 28deg;
+	-moz-transform: rotate(28deg);
+	-webkit-transform: rotate(28deg);
+	-ms-transform: rotate(28deg);
+	-o-transform: rotate(28deg);
+}
+.pos4{
+	rotation: 357deg;
+	-moz-transform: rotate(357deg);
+	-webkit-transform: rotate(357deg);
+	-ms-transform: rotate(357deg);
+	-o-transform: rotate(357deg);
+}
+.pos5{
+	rotation: 352deg;
+	-moz-transform: rotate(352deg);
+	-webkit-transform: rotate(352deg);
+	-ms-transform: rotate(352deg);
+	-o-transform: rotate(352deg);
+}
+.pos6{
+	rotation: 15deg;
+	-moz-transform: rotate(15deg);
+	-webkit-transform: rotate(15deg);
+	-ms-transform: rotate(15deg);
+	-o-transform: rotate(15deg);
+}
+.pos7{
+	rotation: 28deg;
+	-moz-transform: rotate(28deg);
+	-webkit-transform: rotate(28deg);
+	-ms-transform: rotate(28deg);
+	-o-transform: rotate(28deg);
+}
+.pos8{
+	rotation: 357deg;
+	-moz-transform: rotate(357deg);
+	-webkit-transform: rotate(357deg);
+	-ms-transform: rotate(357deg);
+	-o-transform: rotate(357deg);
+}

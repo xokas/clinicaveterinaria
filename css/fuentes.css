@@ -1,0 +1,53 @@
+/*
+ * Font: 		          Minyanouvelle
+ * Vendor:                Typodermic
+ * License URL:           http://www.fontspring.com/fflicense/typodermic
+ * License URL font-face: http://www.cveterinariagala.com/fonts/Minyanouvelle/Minyanouvelle_license.txt
+ *
+ *
+ * Font: 		          EraserDustRegular
+ * Designed:              David Rakowski
+ * License URL:           http://www.fontsquirrel.com/license/Eraser
+ * License URL font-face: http://www.cveterinariagala.com/fonts/EraserDustRegular/EraserRegular_Freeware_License.txt
+ *
+ * Font: 		          PermanentMarkerRegular
+ * Designed:              Font Diner
+ * License URL:           http://www.fontsquirrel.com/license/permanent-marker
+ * License URL font-face: http://www.cveterinariagala.com/fonts/PermanentMaker/Apache_License_Version_2.txt
+ *
+ */
+
+@font-face {
+    font-family: 'Minyanouvelle';/* A font by Jos Buivenga (exljbris) -> www.exljbris.com */
+    src: url('/fonts/Minyanouvelle/Minyanouvelle.eot');
+    src: url('/fonts/Minyanouvelle/Minyanouvelle.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/Minyanouvelle/Minyanouvelle.woff') format('woff'),
+         url('/fonts/Minyanouvelle/Minyanouvelle.ttf') format('truetype'),
+         url('/fonts/Minyanouvelle/Minyanouvelle.svg#Minyanouvelle') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PermanentMarkerRegular';
+    src: url('/fonts/PermanentMarker/PermanentMarker-webfont.eot');
+    src: url('/fonts/PermanentMarker/PermanentMarker-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/PermanentMarker/PermanentMarker-webfont.woff') format('woff'),
+         url('/fonts/PermanentMarker/PermanentMarker-webfont.ttf') format('truetype'),
+         url('/fonts/PermanentMarker/PermanentMarker-webfont.svg#PermanentMarkerRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'EraserDustRegular';
+    src: url('/fonts/EraserDust/erasdust-webfont.eot');
+    src: url('/fonts/EraserDust/erasdust-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/EraserDust/erasdust-webfont.woff') format('woff'),
+         url('/fonts/EraserDust/erasdust-webfont.ttf') format('truetype'),
+         url('/fonts/EraserDust/erasdust-webfont.svg#EraserDustRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

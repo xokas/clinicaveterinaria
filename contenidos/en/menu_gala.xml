@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "../dtd/menu.dtd">
+<menu>
+	<enlace>
+		<id>gala</id>
+		<texto>Gala</texto>
+		<href>#</href>
+		<submenu>
+			<enlace>
+				<id>quienes_somos</id>
+				<texto>About us</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>donde_estamos</id>
+				<texto>Where we are</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>contacto</id>
+				<texto>Contact us</texto>
+				<href>#</href>
+			</enlace>
+		</submenu>
+	</enlace>
+	<enlace>
+		<id>servicios</id>
+		<texto>Services</texto>
+		<href>#</href>
+		<submenu>
+			<enlace>
+				<id>atencion_a_domicilio</id>
+				<texto>Home visit</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>urgencias</id>
+				<texto>Emergency</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>peluqueria_canina</id>
+				<!-- <texto>Peluquería canina</texto> -->
+				<texto>Grooming service</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>atencion_de_animales_exoticos</id>
+				<!-- <texto>Atención de animales exóticos</texto> -->
+				<texto>Exotic animals care</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>sexaje_de_aves</id>
+				<texto>Birds sexing</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>tienda_especializada</id>
+				<!-- <texto>Tienda especializada</texto> -->
+				<texto>Vet shop</texto>
+				<href>#</href>
+			</enlace>
+		</submenu>
+	</enlace>
+	<enlace>
+		<id>consejos</id>
+		<texto>Tips</texto>
+		<href>#</href>
+		<submenu>
+			<enlace>
+				<id>perros_y_gatos</id>
+				<texto>Dogs and cats</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>roedores</id>
+				<texto>Rodents</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>aves</id>
+				<texto>Birds</texto>
+				<href>#</href>
+			</enlace>
+			<enlace>
+				<id>reptiles</id>
+				<texto>Reptiles</texto>
+				<href>#</href>
+			</enlace>
+		</submenu>
+	</enlace>
+	<enlace>
+		<id>mapaWeb</id>
+		<texto>Index</texto>
+		<href>#</href>
+		<click>clickMapa()</click>
+	</enlace>
+	<enlace>
+		<id>fotos</id>
+		<texto>Gallery</texto>
+		<href>#</href>
+		<click>clickGaleria()</click>
+	</enlace>
+</menu>

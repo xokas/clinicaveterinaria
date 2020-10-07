@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cabecera SYSTEM "../dtd/cabecera.dtd">
+<cabecera>
+	<title_web>Consulta Veterinaria Gala en Betanzos, A Coruña. Animais exóticos, perruquería canina preto de Miño.</title_web>
+	<metas>
+		<keywords>Consulta Veterinaria Gala, Consulta Veterinaria, Clínica Veterinaria, Consulta Veterinaria Betanzos, Consulta Veterinaria Miño, Consulta Veterinaria Paderne, Clínica Veterinaria Betanzos, Clínica Veterinaria Paderne, Clínica Veterinara Miño, Betanzos, Veterinaria, Veterinarios, Animales exóticos, cuidado animales, urgencias veterinarias, peluquería canina, Betanzos, Miño, A Coruña, Paderne, veterinarios en Miño, veterinarios en Paderne, veterinarios en Betanzos</keywords>
+		<description>A Consulta Veterinaria Gala en Betanzos, moi preto de Miño e Paderne, dispón dunha ampla gama de servizos á disposición das súas mascotas: urxencias, perrucaría canina, atención domiciliaria e de animais exóticos.</description>
+	</metas>
+	<direccion>
+		<via>Calle Saavedra Meneses 52. Bajo Izq.</via>
+		<codigo_postal>15300</codigo_postal>
+		<localidad>Betanzos</localidad>
+		<provincia>A Coruña</provincia>
+	</direccion>
+	<titulo>GALA</titulo>
+	<subtitulo>Consulta Veterinaria</subtitulo>
+	<telefono_fijo>696 949 087</telefono_fijo>
+	<telefono_movil>981 775 203</telefono_movil>
+	<decoracion>
+		<img_decorativa>alfinete</img_decorativa>
+		<img_recargar>recargar</img_recargar>
+	</decoracion>
+	<titulo_curiosidades>Consellos para a túa mascota.</titulo_curiosidades>
+	<texto_presentacion>A Consulta Veterinaria Gala en Betanzos, moi preto de Miño e Paderne, dispón dunha ampla gama de servizos á disposición das súas mascotas: urxencias, perrucaría canina, atención domiciliaria e de animais exóticos.</texto_presentacion>
+</cabecera>
