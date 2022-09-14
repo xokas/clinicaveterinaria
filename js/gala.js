@@ -5,20 +5,10 @@
 
 //0 1 2 3 4 5 6 7 8 9 ;&# &# ;'> ;</a> <a href='
 //z y x w v u t s r q p   o  n   m     l           //k j i h g f e d c b a
-var contacto = "<a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;'>" +
-		"&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;" +
-		"</a>";
-var contacto_encode = "loyzqpqspyzupyzrpyytpyyypurpqqpyyypyyzpyytpqspqqpyytpyyypt" +
-		"vpqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqspvtpqqpy" +
-		"yypyzqnoqqpyyypyyzpyytpqspqqpyytpyyyptvpqqpyyrpyzypyytpyzypyyvpyzupy" +
-		"yzpqspyyvpyzupqspyzwpqspyzrpqspvtpqqpyyypyzqm";
-var webmaster = "<a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#101;&#98;&#109;&#97;&#115;&#116;&#101;&#114;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;'>" +
-		"&#119;&#101;&#98;&#109;&#97;&#115;&#116;&#101;&#114;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;" +
-		"</a>";
-var webmaster_encode = "loyzqpqspyzupyzrpyytpyyypurpyyqpyzypqrpyzqpqspyyupyytpyzyp" +
-		"yyvptvpqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqspvtp" +
-		"qqpyyypyzqnoyyqpyzypqrpyzqpqspyyupyytpyzypyyvptvpqqpyyrpyzypyytpyzypy" +
-		"yvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqspvtpqqpyyypyzqm";
+var contacto = "<a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'>&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>";
+var contacto_encode = "loyzqpqspyzupyzrpyytpyyypurpqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqsptvpyzwpyzqpqspyzupyzrpvtpqqpyyypyzqnoqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqsptvpyzwpyzqpqspyzupyzrpvtpqqpyyypyzqm";
+var webmaster = "<a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'>&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>";
+var webmaster_encode = "loyzqpqspyzupyzrpyytpyyypurpqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqsptvpyzwpyzqpqspyzupyzrpvtpqqpyyypyzqnoqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqsptvpyzwpyzqpqspyzupyzrpvtpqqpyyypyzqm";
 
 var lang = "es";
 
