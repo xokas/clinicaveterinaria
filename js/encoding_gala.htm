@@ -1,0 +1,103 @@
+<html>
+
+	<head>
+
+		<script>
+			//& # ; < > a h r e f / = ' 0 1 2 3 4 5 6 7 8 9 
+			//z y x w v u t s r q p o n m l k j i h g f e d c b a
+			//http://norfipc.com/articulos/esconder-email.html
+
+			//0 1 2 3 4 5 6 7 8 9 ;&# &# ;'> ;</a> <a href='
+			//z y x w v u t s r q p   o  n   m     l           //k j i h g f e d c b a
+			var contacto = "<a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;'>" +
+					"&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#111;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;" +
+					"</a>";
+			var contacto_encode = "loyzqpqspyzupyzrpyytpyyypurpqqpyyypyyzpyytpqspqqpyytpyyypt" +
+					"vpqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqspvtpqqpy" +
+					"yypyzqnoqqpyyypyyzpyytpqspqqpyytpyyyptvpqqpyyrpyzypyytpyzypyyvpyzupy" +
+					"yzpqspyyvpyzupqspyzwpqspyzrpqspvtpqqpyyypyzqm";
+			var webmaster = "<a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#101;&#98;&#109;&#97;&#115;&#116;&#101;&#114;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;'>" +
+					"&#119;&#101;&#98;&#109;&#97;&#115;&#116;&#101;&#114;&#64;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#46;&#99;&#111;&#109;" +
+					"</a>";
+			var webmaster_encode = "loyzqpqspyzupyzrpyytpyyypurpyyqpyzypqrpyzqpqspyyupyytpyzyp" +
+					"yyvptvpqqpyyrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqspvtp" +
+					"qqpyyypyzqnoyyqpyzypqrpyzqpqspyyupyytpyzypyyvptvpqqpyyrpyzypyytpyzypy" +
+					"yvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqspvtpqqpyyypyzqm";
+
+			var contacto_new = "<a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;'>" +
+					"&#99;&#118;&#101;&#116;&#101;&#114;&#105;&#110;&#97;&#114;&#105;&#97;&#103;&#97;&#108;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;" +
+					"</a>";
+			var contacto_new_encode = "loyzqpqspyzupyzrpyytpyyypurpqqpyyrpyzypyytpyzypyyvpyzup" +
+					"yyzpqspyyvpyzupqspyzwpqspyzrpqsptvpyzwpyzqpqspyzupyzrpvtpqqpyyypyzqnoqqpy" +
+					"yrpyzypyytpyzypyyvpyzupyyzpqspyyvpyzupqspyzwpqspyzrpqsptvpyzwpyzqpqspyzup" +
+					"yzrpvtpqqpyyypyzqm";
+
+			var lang = "es";
+
+			function encrypt(informacion){
+				var textos =  new Array("z",        "y","x","w","v","u","t","s","r","q","p","o",  "n",  "m",  "l");
+				var codigos = new Array("0","1","2","3","4","5","6","7","8","9",";&#","&#",";'>",";</a>", "<a href='");
+					 
+				for(var i = 0 ; i < textos.length; i++){
+					var e = new RegExp(codigos[i],"g");
+					informacion = informacion.replace(e, textos[i]);
+				}
+				
+				//document.getElementById(capa).innerHTML = informacion;
+				console.log("codificar: " + informacion);
+				return informacion;
+			}
+
+			function decrypt(informacion){
+				var codigos =  new Array("z",        "y","x","w","v","u","t","s","r","q","p","o",  "n",  "m",  "l");
+				var textos  =  new Array("0","1","2","3","4","5","6","7","8","9",";&#","&#",";'>",";</a>","<a href='");
+				 
+				for(var i = 0 ; i < textos.length; i++){
+					var e = new RegExp(codigos[i],"g");
+					informacion = informacion.replace(e, textos[i]);
+				}
+				//document.getElementById(capa).innerHTML = informacion;
+				console.log("descodificar: " + informacion);
+				return informacion;
+			}
+
+			function encode(txt){
+				var result = "";
+
+				for (i = 0; i < txt.length; i++){
+					result += "&#" + txt.charCodeAt(i) + ";";
+				}
+				console.log("encode: " + result);
+				return result;
+			}
+
+			function buildHtmlLink(email){
+				var mailToEncode = encode("mailto:");
+				var emailEncode = encode(email);
+				var result = "<a href='" + mailToEncode + emailEncode + "'>" + emailEncode + "</a>";
+				console.log("buildHtmlLink:" + result);
+				return result;
+
+			}
+
+			function inicio(language){
+				//document.getElementById("encodeEmail").innerHTML = encodeEmail("cveterinariagala@gmail.com")
+				//codificar(contacto_new);
+				//document.getElementById("correo").innerHTML = descodificar(contacto_new_encode);
+				//document.getElementById("webmaster").innerHTML = descodificar(webmaster_encode);
+
+				var email = "cveterinariagala@gmail.com";
+				var htmlLink = buildHtmlLink(email);
+				var htmlLinkEncrypted = encrypt(htmlLink);
+				document.getElementById("correo").innerHTML = htmlLink;
+
+
+			}
+		</script>
+	</head>
+	<body onload="inicio('es')">
+		<div id="correo"></div>
+		<div id="webmaster"></div>
+		<div id="encodeEmail"></div>
+	</body>
+</html>
