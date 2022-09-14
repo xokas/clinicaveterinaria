@@ -19,7 +19,7 @@
 					 -->
 				</ul>
 			</div>
-			<div class="enlaces_pie fl_r">
+			<!--<div class="enlaces_pie fl_r">
 				<ul>
 					<li>
 						<a href="/humans.txt" target="_self">
@@ -27,7 +27,7 @@
 						</a>
 					</li>
 				</ul>
-			</div>
+			</div>-->
 			<!-- <p><a href="#">informaci&oacute;n legal</a></p> -->
 			<p>&copy; Consulta Veterinaria Gala</p>
 			<p class="neni2">neni<sup>2</sup> desarrollo web <img src="/img/neni2.png" alt="neni^2 dise&ntilde;o web"/></p>
